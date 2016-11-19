@@ -1,0 +1,557 @@
+Sl no,Company name,Mission statement and core values
+1,Trifacta,"At Trifacta, we know that the key to winning with Big Data lies with people. That’s why our innovations focus on the user experience—to provide radical productivity gains for data professionals, and enable business analysts to work directly with Big Data. The result: faster, better decisions across the organization.  
+Our technical vision focuses on connecting human intuition with computational power. Analysts get clear visibility and light touchpoints on massive data; algorithms extract signals and patterns from data and user behavior; interfaces surface machine suggestions and visualizations for further human attention.
+For the user, the experience is simply an intuitive, agile new way of working with data.
+  Success in the 21st century depends on leveraging the data at your disposal. Yet for many organizations, data still seems too complex, varied and vast to be useful on a daily basis. Trifacta’s mission is to change all that, and enable you to quickly transform Big Data from a burden into a strategic asset."
+2,Cloudera,"Through close interactions across Cloudera, customers have the ability to influence the product roadmap, drive product enhancements, ensure a smoothly operating Hadoop environment, and communicate with both Cloudera and the community at large. Cloudera Engaged describes this multi-faceted approach to keeping customers connected so we can maximize your satisfaction and success. We are committed to engaging with our customers, listening to feedback and acting on it. We make every attempt to improve the customer experience through operational modifications that drive better, faster innovation while benefiting the Cloudera culture both internally and within the community."
+3,Google,"Google's mission statement is “to organize the world's information and make it universally accessible and useful.” Ever since its beginnings, the company has focused on developing its proprietary algorithms to maximize effectiveness."
+4,Visier,"The idea of Visier was conceived one springtime night when John Schwarz, former CEO of Business Objects and SAP Executive Board Member, met Ryan Wong, his former Chief Technical Architect, who was then head of Engineering worldwide at SAP, for dinner. John and Ryan reflected on their shared experiences and decided that, if they could start over, they could address key pain points that their business intelligence customers had: that the cost was too high, the deployment time too long, the skills required on behalf of the end user too unreasonable. And they could do this by developing an innovative Applied Big Data solution that puts answers to important questions at the fingertips of all decision makers
+We are dedicated to helping you maximize your business outcomes through your people.
+We do this with a breakthrough Workforce Intelligence solution, developed on our patented Big Data technology, that dramatically changes how people think about and leverage data to make business decisions"
+5,Domo,"It started with highly respected, highly frustrated executives who felt locked out of their own business data. And when you get that much talent and experience focused on one problem—making data more accessible to business leaders—you get a phenomenal solution.
+Now, with more than $450 million in funding, Domo serves executives across every role and across a broad range of industries
+
+"
+6,SAP,"SAP’s vision is to help the world run better and improve people’s lives. This is our enduring cause; our higher purpose. 
+
+Our customers look to us to help them Run Simple – to seamlessly connect people and technology, real-time. We help them re-imagine business and life to drive meaningful impact globally. With SAP HANA as the great simplifier, our customers are creating breakthroughs that solve complex, intractable problems."
+7,Palantir technologies,"Palantir is a mission-focused company. Our team is dedicated to working for the common good and doing what's right, in addition to being deeply passionate about building great software and a successful company.
+From protecting privacy and civil liberties to promoting open software to pursuing philanthropic engagements to a host of other initiatives, we put our values to work in the service of making the world a better place, every day.
+Palantir Technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. Since its inception, Palantir has invested its intellectual and financial capital in engineering technology that can be used to solve the world’s hardest problems while simultaneously protecting individual liberty. Robust privacy and civil liberties protections are essential to building public confidence in the management of data, and thus are an essential part of any information system that uses Palantir software."
+8,Alpine data labs,"It's no secret: the Big Data Era is upon us. There isn't a single day when new statistics are published about the growth of the data generated, collected and available for us to mine and analyze.
+
+If you've come to our site, you most likely want to take advantage of the amazing opportunity Big Data represents. Problem is, the road to Big Data ROI has been fraught with peril and compromise. Despite the billions of dollars companies have invested in Big Data, only a small minority have been able to drive business value from it. That's appalling: at Alpine Data Labs, we've made it our mission to end this compromise.
+
+We have built the World's Most Comprehensive Advanced Analytics Platform for Big Data. Our goal is to help your company drive business value from your Big Data investment faster. Here is what we believe and separates us from the pack.
+
+ADVANCED ANALYTICS IN THE BIG DATA ERA. When Gartner Research selected Alpine Data Labs as one of a small number of companies for its Magic Quadrant, the research firm highlighted some of our key differentiators: scalability, our modern collaborative approach and taking customer input to help drive the product roadmap. Gartner also noted that the world has changed quite a bit since the first predictive analytics companies entered this market. We agree: thirty years ago, it was acceptable to extract data before analyzing it. Thirty years ago, it was acceptable to rely on samples to assert your assumptions. Thirty years ago, it was acceptable to only work small datasets. Thirty years ago, it was acceptable to work in isolation from the rest of the company. If your team is forced to work today with the same tools and approach the industry used thirty years ago, they will miss the Big Data opportunity. In a post-internet and post-Hadoop world, why would your people have to download software? Why would they have to learn multiple programming languages? Why would they have to work with limited datasets? Why limit yourself to a desktop solution that not only fails to scale but exposes your organization to risk, because data and results are stored on laptops and shared by email?
+
+Alpine Chorus 5.0 is the world's only advanced analytics platform that is 100% visual, web-based, collaborative and optimized for Big Data.
+
+OPTIMIZED FOR ALL DATA: HADOOP, DATABASE AND ALL COMMONLY USED DATA SOURCES. If you've been part of a data analysis team, then you know that the process of data wrangling is a very painful one. First, teams have to be able to discover what data is available for them to analyze. Next, once you have found the data, it must be moved to a dedicated analytical environment before analysts and data scientists can start their work. Third, your data needs to be massaged, transformed, and structured for usable advanced analysis. If, by chance, miscommunications occur - and they alwyas do - data has to be moved back-and-forth multiple times. The inefficiences of such methods compound into a data pipeline process that can cost the average organization months and millions of dollars. Unsurprisingly, research found that more than 86% of the data a company stores goes unused! At Alpine Data Labs, we are committed to helping you analyze as much data as you want without the need for additional software, hardware or complex configuration.
+
+COMMITTED TO ANALYTICS EXCELLENCE. Analytics Excellence is achieved when your processes and practices can be applied repeatedly and in a predictable manner. That's why we've worked hard to deliver operational functionality embedded in your analytical workflow. With Alpine Chorus, your team is able to:
+
+Work with the latest innovations with ease. We embrace industry standards like PMML, as well as open source platform technologies (Spark, MADlib, MLLib, and others). Alpine Chorus is one of the first Advanced Analytics platform to be certified on Spark and Cloudera CDH5.
+
+Extend your analysis to production. With the Alpine Chorus REST API, it is now possible to edit, run, and integrate predictive models as part of your end-to-end analytic workflow.
+
+Manage the analytics full-life cycle. Version control at every step of data with complete history, roll-back, commenting, model review and tracking.
+
+BROWSE DATABASE AND HADOOP FILE SYSTEM DATA. With Alpine Chorus, analysts can browse and explore datasets across the enterprise. Once a data set is associated with a workspace, Alpine Chorus will manage the flow of data, track dependencies, and always have the most recent version due to its in-cluster technology. Analysts can operate on the data and share the results of their analysis as a new dataset, which can then be discovered and accessed by other users.
+
+SELF-SERVICE PROVISIONING. With Alpine Chorus, the data science team can create new sandboxes with a few simple clicks. There is no longer a need to file a ticket with IT and wait days (or weeks) for the solution. With self- service provisioning, users can instantiate new sandbox schemas on the fly within existing infrastructure.
+
+MINE, MODEL, AND LEVERAGE YOUR DATA WHERE IT LIVES. With Alpine Chorus, business analysts and data scientists perform every aspect of the analytics workflow —exploration and profiling, transformation, modeling, and scoring— without needing to extract or move data to a separate analytics environment. Because Alpine leverages the scalability of existing database and Hadoop platforms, these processes can be performed with no limitations on the size or complexity of your data"
+9,GoodData,"Our vision is to change the way people experience business intelligence
+Innovative products. Intuitive experiences. Exceptional people. 
+Welcome to GoodData.
+Our clients. Our people. Our company.
+Thrive in the new world of digital relationships."
+10,Oracle,"The workforce is increasingly mobile. Customers are social and digital
+natives. Security has never been more paramount. To meet these shifting
+market demands, businesses must accelerate their digital transformation—
+simplify operations, speed innovation, and hone their competitive edge.
+Oracle Fact Sheet
+Oracle offers an integrated array of
+applications, databases, servers, storage,
+and cloud technologies to empower modern
+business. For most companies, flexibility
+is critical. Oracle provides a wide choice of
+software, systems, and cloud deployment
+models—including public, on-premises, and
+hybrid clouds—to ensure that technology
+flexes to the unique needs of a business.
+Oracle Cloud is a complete, integrated stack
+of platform, infrastructure, and application
+services. With advanced scalability and
+security, Oracle Cloud enables technical agility
+across the enterprise, connects people to
+information for clearer insights, and fosters
+efficiency through simplified workflows.
+More than 420,000 customers across 145
+countries have harnessed Oracle technology
+to accelerate their digital transformation.
+ORACLE CLOUD SOLUTIONS
+Modern cloud services help companies
+seize new business opportunities and
+innovate faster. Oracle delivers the most
+comprehensive portfolio of integrated cloud
+solutions for business, IT, and development
+needs, including software as a service (SaaS),
+platform as a service (PaaS), infrastructure as
+a service (IaaS), and data as a service (DaaS).
+Oracle Cloud helps businesses offload IT
+management so that they can focus on
+their priorities.
+ORACLE DATABASE
+Designed for cloud computing, the world’s
+#1 database enables the consolidation
+and management of databases as cloud
+services. Companies can accelerate analytical
+performance—while achieving new levels
+of efficiency and availability. Oracle Database
+can be rapidly provisioned and ready to use in
+minutes. With just a few clicks, customers can
+set up new database instances in a complete
+development environment. Best of all, there
+are no application changes when customers
+move their legacy databases to Oracle’s
+secure and optimized cloud platform.
+MySQL is the world’s most popular open
+source database, enabling cost-effective
+delivery of reliable, high-performance,
+and scalable web -based and embedded
+database applications.
+ORACLE MIDDLEWARE
+Oracle’s integrated middleware platform
+for the enterprise and the cloud enables
+companies to create and run agile, intelligent
+business applications while optimizing IT
+efficiency through full utilization of modern
+hardware and software architectures.
+ORACLE APPLICATIONS
+Companies of all sizes rely on Oracle’s
+complete, modern, and secure portfolio
+of enterprise and industry applications to
+connect the entire organization and provide
+data-driven intelligence. Oracle offers
+maximum personalization and choice,
+including SaaS applications for customer
+experience, enterprise performance
+management, enterprise resource planning,
+human capital management, supply chain
+management, and more. Oracle’s enterprise
+solutions support all types of cloud scenarios,
+including public, private, and hybrid clouds. 
+ORACLE INDUSTRY SOLUTIONS
+Oracle’s dedicated industry organizations
+provide deep industry expertise and
+best-of-breed technologies for running
+a customer’s core business— on premises
+or in the cloud. Key industries include
+communications, education, engineering
+and construction, financial services, health
+sciences, hospitality, public sector, retail,
+utilities, and more.
+ORACLE ENGINEERED SYSTEMS
+Oracle’s integrated systems combine
+Oracle hardware and software, engineered
+and optimized to work together to cut
+complexity and cost. This results in
+extreme performance, easier deployment
+and upgrades, and more efficient
+systems management.
+ORACLE SERVERS
+Oracle’s enterprise servers deliver advanced
+security, high performance, simplified
+management, and high availability at a low
+cost of ownership. The systems and Oracle
+software are coengineered for performance
+and provide built-in redundancy for maximum
+uptime and continuous service.
+ORACLE STORAGE
+Oracle’s application-engineered storage
+is designed to accelerate application
+performance, increase efficiency, and
+improve management. These advanced
+storage solutions let enterprises simplify
+IT environments so they can operate more
+cost-effectively and be more responsive
+to dynamic business needs.
+ORACLE SERVICES
+Oracle services help companies optimize
+their technology investments and resources.
+» Oracle Advanced Customer Support
+Services and Oracle Premier Support
+deliver tailored, mission-critical support
+for complex IT environments to help
+maximize performance, achieve higher
+availability, and reduce risk.
+» Oracle Consulting provides
+deep expertise to help customers
+succeed with architecture, planning,
+implementation, upgrade, and
+
+migration across the Oracle stack.
+
+»  Oracle Financing offers expertise and
+insight—along with proven processes
+and streamlined execution—to help
+organizations with their IT investments.
+» Oracle Managed Cloud Services
+enable organizations to extend their Oracle
+investments into the cloud with greater
+value, choice, and confidence.
+»  Oracle University provides a worldclass
+educational experience, with the
+best instructors in the industry.
+ORACLE MIDSIZE
+AND SMB SOLUTIONS
+Oracle provides modern, complete,
+and simple-to -deploy cloud solutions to
+organizations and companies of all sizes.
+Designed for fast time to benefit, these
+solutions are available as fixed-scope,
+fixed-price offerings from expert partners
+and Oracle Consulting, providing midsize and
+small-to-medium businesses (SMBs) with a
+strong foundation for innovation and growth.
+DEVELOPER AND
+OTHER COMMUNITIES
+For developers, as well as customers,
+partners, and other users, Oracle offers
+a wide range of ways to try Oracle
+technologies, get involved, and be heard.
+Oracle’s global communities include
+Oracle Technology Network, Oracle
+PartnerNetwork, Java.net, and Oracle
+user groups. Oracle communities can
+also be found online on Facebook,
+LinkedIn, Twitter, and more.
+ACCELER ATING DIGITAL
+TRANSFORMATION
+Enterprises focused on accelerating
+their digital transformation can reap
+the benefits of an empowered modern
+business. Simplifying processes brings
+greater efficiency. Connecting people to
+information leads to insights that improve
+customer experience. And enabling technical
+agility creates room for innovation that
+sharpens the competitive edge. "
+11,Dell,"We know our culture matters in how we run the business, how we go to market, and how we lead each other. It describes what we care about, the things in which we’re willing to invest and the rules that define us as a team.
+
+Our culture is defined by our values and made real every day by how we work and lead. We know our culture is the foundation for all we’ve achieved, and for all the success ahead of us. This is our culture code. #CultureCode.Our top culture attributes that drive the company's success include:
+Customers: We believe our relationships with customers are the ultimate differentiator and the foundation for our success.
+Winning together: We believe in and value our people. We perform better, are smarter, and have more fun working as a team than as individuals.
+Innovation: We believe our ability to innovate and cultivate breakthrough thinking is an engine for growth, success and progress.
+Results: We believe in being accountable to an exceptional standard of excellence and performance.
+Integrity: We believe integrity must always govern our fierce desire to win"
+12,Salesforce,"Salesforce pioneered a new technology model with our cloud platform, a new pay-as-you-go business model focused on customer success, and a new integrated corporate philanthropy model, called the 1-1-1 model, by which we donate 1% of our equity, 1% of our employee time, and 1% of our product to improve communities around the world.
+
+This vision has fueled our incredible growth, made us the global leader in CRM, defined the era of enterprise cloud computing, and inspired a new philanthropic model for all companies to follow. Today, Salesforce’s Customer Success Platform provides groundbreaking cloud services for sales, service, marketing, community, analytics, apps and the Internet of Things.
+
+Thanks to our dedicated employees, partners, and the customers we serve, Salesforce is the fastest growing top 10 software company in the world and has been ranked as one of the world’s most innovative companies by Forbes for five years in a row. Salesforce empowers companies to connect with their customers in a whole new way, run their business from their phones, create one-to-one customer journeys and make smarter, more predictive decisions from anywhere in real-time."
+13,Splunk,"Passionate
+“People + Product + Passion = Splunk”
+You can have the best people and the best product in the world, but without passion, you can't call it Splunk. Passion is the single most valuable element of our culture. It's the one emotion which all Splunkers possess the most of, the quality that drives us further and enables us to reach higher. It's the reason we get excited to share Splunk with anyone who will listen and it's the reason we keep striving every day to protect what Splunk is and improve what Splunk does. And if you don't believe it, just ask us to tell you about Splunk and see what happens.
+Disruptive
+“We strive to lead, not follow, while continuing to disrupt the market.”
+We have never settled for the status quo. We look at a problem and ask, “How can we do that better?” We recognize when we (or others) fail to execute, learn from those lessons—and submit a new, better solution to the problem. We continually reevaluate the solution to ensure it is still the best answer and tweak it to take advantage of new pieces of information.
+Open
+“We are open and honest in our interactions.”
+We keep it real by being open and honest. We are a collaborative team that understands the value in open communication—it's how we interact with our customers. We have an open door policy—and we like it that way. At Splunk, our customers are number one and that's how they are treated.
+Fun
+“We are committed to this environment of having fun and working hard at the same time.”
+“Work hard, play harder” has been a phrase used at Splunk since the time when we all sat in the same office and had to build our own desks. We are a company that recognizes that we are only as good as those around us. People who do not look forward to representing Splunk every day are not the type of people that will catapult us to the upper echelons of success. We are committed to having every employee WANT to give it their all, be respectful and a part of this family, and have a smile on their face while doing it"
+14,Hewlett-Packard,"Our vision is to create technology that makes life better for everyone, everywhere — every person, every organization, and every community around the globe. This motivates us — inspires us — to do what we do. To make what we make. To invent, and to reinvent. To engineer experiences that amaze. We won’t stop pushing ahead, because you won’t stop pushing ahead. You’re reinventing how you work. How you play. How you live. With our technology, you’ll reinvent your world.
+This is our calling. This is a new HP. 
+Engineering that amazes
+Innovation. It’s in our blood. But we don’t just create technology — we create technology with a purpose: to make life better for everyone, everywhere."
+15,SnapLogic,"SnapLogic is the industry’s first unified data and application integration platform as a service (iPaaS). Our hybrid cloud architecture is powered by 300+ Snaps, which are pre-built integration components that simplify and automate complex enterprise integration patterns and processes. Funded by leading venture investors, including Andreessen Horowitz and Ignition Partners, and co-founded by Gaurav Dhillon, the SnapLogic Elastic Integration Platform enables leading enterprises to connect faster and gain a better return on their cloud application and big data investments.Connect Data, Applications, APIs and Things Faster with our Cloud Enterprise Integration Platform
+SnapLogic allows enterprise IT organizations and lines of business to connect faster. Accelerate the adoption of cloud apps like Workday, Salesforce and ServiceNow. Get more from your big data investments and power modern analytics. Re-think legacy approaches to data and application integration with a unified integration platform as a service (iPaaS).Does your IT organization have one set of integration technologies and people focused on enterprise application integration and another team focused on data integration for business intelligence? Are you struggling with “The Integrator’s Dilemma”?
+At SnapLogic, we’re 100% focused on delivering a unified integration platform as a service (iPaaS) that can handle extraction, transformation and load (ETL) or ELT and low-latency enterprise service bus (ESB) requirements without the overhead."
+16,Numerify,"Numerify was founded with the vision of making analytics the status quo for all facets of the enterprise. We build solutions that align with the needs of the business. Our analytic applications encapsulate best practices, a unified data model, and a superior user experience. By employing data science algorithms and advanced deployment techniques, our customers are up and running within days. From Fortune 500s to top universities, organizations are uncovering insights, making data-driven decisions, and finding business value with Numerify.
+Leadership
+We’re led by industry veterans with over 275 years of collective experience in analytics"
+17,Attivio,"ROOTS IN ENTERPRISE SEARCH AND TEXT ANALYTICS
+Founded in 2007, Attivio soon established itself as a leader in enterprise search and text analytics. Many of the Fortune 100 continue to rely on Attivio to quickly find, correlate, and return the most relevant search results to boost knowledge worker productivity. Building on its successful heritage and technology, Attivio began expanding into the Big Data market in 2013 by delivering search-based applications, such as eCommunications Surveillance and Know Your Customer.
+EXPERTISE IN BIG DATA, BUSINESS INTELLIGENCE, AND ANALYTICS
+Attivio extended its leadership in the Big Data market in 2015 by launching its Semantic Data Catalog solution, which enables Data Management professionals to quickly profile and identify all unstructured, semi-structured, and structured data across an enterprise. Attivio’s semantic catalog provides a foundation for enterprises to accelerate data discovery for BI and data preparation for ETL, deploy data-driven apps built on Hadoop, and rationalize data storage."
+18,Pivotal,"Companies with the Silicon Valley state of mind are pushing the boundaries of human behavior and how business gets done. They’re nimble, software-driven, and competitive. Many are market leaders. But there’s no monopoly on good ideas. Traditional businesses have been successful for a reason. They have experience on their side. Yet they’re eager to embrace the digital future. That’s where Pivotal excels.
+Pivotal is changing the world by building great software companies. Only Pivotal combines the best of the Silicon Valley state of mind with a business’ core values and expertise to innovate and disrupt.
+We enable the leading companies in the world to transform with a modern approach focused on building—not buying—software. We overcome challenges associated with lengthy enterprise IT cycles by accelerating application delivery. We develop better products, together, using a proven methodology and the most powerful continuous innovation platform.
+Our cloud native platform is optimized for change so enterprises can move at start-up speeds and with greater business agility. Our methodology is about evolving, in both development and innovation, and our culture is empowering. Our team uses agile and lean approaches to teach next-generation developers to create and build new solutions.Pivotal unleashes the power of the Silicon Valley state of mind on companies with decades of industry know-how, combining traditional experience with industry-leading capabilities and infrastructure to reshape the world"
+19,IBM,"IBMers value. Dedication to every client's success. Innovation that matters - for our company and for the world. Trust and personal responsibility in all relationships.
+A company based on Values
+Enterprises built to endure stand on a foundation of core values. In 2003, we undertook the first disciplined reexamination of our Values in nearly 100 years.
+Through ValuesJam – an unprecedented 72-hour discussion on the global intranet – IBMers came together to define the essence of the company. The result? A set of core Values – defined by IBMers for IBMers – that shape everything we do and every choice we make on behalf of the company.
+This shared set of Values helps guide our decisions, actions and behaviors and is at the core of our collective aspiration to be recognized as a great company.
+“If there's no way to optimize IBM through organizational structure or by management dictate, you have to empower people while ensuring that they're making the right calls the right way. And by 'right,' I'm not talking about ethics and legal compliance alone; those are table stakes. I'm talking about decisions that support and give life to IBM's strategy and brand, decisions that shape a culture. That's why values, for us, aren't soft. They're the basis of what we do, our mission as a company...You've got to create a management system that empowers people and provides a basis for decision making that is consistent with who we are at IBM.”
+Sam Palmisano, Harvard Business Review Interview, Leading Change When Business is Good
+By Values we mean:
+At IBM, Values mean more than ethics, compliance, or even a code of conduct. Values express:
+What differentiates IBM with clients, investors, employees, communities
+Our mission, our aspirations
+How we make decisions at our company
+How we behave and act, collectively and individually
+Our shared Values in action
+Dedication to every client's success.
+IBMers...
+are passionate about building strong, long-lasting client relationships. This dedication spurs us to go ""above and beyond"" on our client's behalf.
+are focused on outcomes. We sell products, services and solutions to help our clients succeed, however they measure success.
+demonstrate this personal dedication to every client, from the largest corporation and government agency to the smallest organization.
+no matter where they work, have a role in client success. It requires the full spectrum of IBM expertise.
+Innovation that matters - for our company and for the world.
+IBMers...
+are forward thinkers. We believe that the application of intelligence, reason and science can improve business, society and the human condition.
+love grand challenges, as well as everyday improvements. Whatever the problem or the context, every IBMer seeks ways to tackle it creatively — to be an innovator.
+strive to be first — in technology, in business, in responsible policy.
+take informed risks and champion new (sometimes unpopular) ideas.
+Trust and personal responsibility in all relationships.
+IBMers...
+actively build relationships with all the constituencies of our business — including clients, partners, communities, investors and fellow IBMers.
+build trust by listening, following through and keeping their word.
+rely on our colleagues to do the right thing.
+preserve trust even when formal relationships end."
+20,Syncsort,"Integrating Big Data….Smarter 
+With ingenuity, innovation and a healthy measure of inspiration, Syncsort is committed to helping the world’s data-intensive organizations unleash the power of Big Data Integration to collect, process and distribute Big Data.  We strive to help our customers ask the Big questions by making what was hard easy and what was impossible routine.
+ 
+The secret to our success has been to continually innovate and evolve our software as new, disruptive technologies and approaches are employed by IT organizations to enable the business to compete and grow.  Here’s a brief recap of our story, from our founding legacy as the world’s most popular and widely used mainframe sorting software to today’s data integration solutions that provide a smarter way to maximize the value of Big Data.
+Rethinking the economics of data since 1968
+
+In the early days of mainframe computing, systems required huge monetary investments, specialized expertise to operate and a large amount of time to perform even the simplest functions. In 1968, seven recent graduates of New York University and Columbia University forged a partnership to find a better, smarter way to process data. They were determined to develop a software solution that increased mainframe performance while reducing operational costs.
+ 
+Starting business as Whitlow Computer Systems, the seven partners spent years perfecting a series of algorithms that streamlined mainframe sorting, used less resources, adapted to specific environmental variables and scaled to meet the demands of growing data volumes. In time, the team at Whitlow developed software that vastly outperformed all other sorting solutions and earned their first patents. In late 1971, these patented algorithms became the basis of the first version of their solution. They called it “SyncSort.”
+Integrating Big Data…Smarter for today’s most successful organizations.
+
+Today, Syncsort is expanding our Big Data Integration solutions to provide data-intensive organizations across the big data continuum with a smarter way to collect and process the ever-expanding data avalanche.  With thousands of deployments across all major platforms, including mainframe, Syncsort helps customers around the world to overcome the architectural limits of today’s ETL and Hadoop environments, empowering their organizations to drive better business outcomes in less time, with less resources and lower TCO.
+
+Headquartered in New Jersey, Syncsort has international subsidiaries in the United Kingdom, France and Germany, with support centers across the United States and the Netherlands. "
+21,Basho Technologies,"BASHOPRODUCTS
+Basho Man
+The Riak product line is built on a set of core services providing a highly reliable, scalable distributed systems framework. Riak KV is a distributed NoSQL database. Riak TS is built on the same core foundation as Riak KV and is highly optimized for IoT and time series data. Riak also integrates with Riak S2 to optimize large object storage, and integrates with other data services including Apache Spark, Redis Caching, Apache Solr, and Apache Mesos.
+Building Big Data application can be complex but integrating Riak with other Big Data services is easy. Riak is integrated with Apache Spark, Redis caching, Apache Solr and Mesos.Basho changes the way companies in virtually every industry store unstructured data and manage their active data workloads – to the benefit of their customers, their employees and their bottom line.Basho products are built on a set of core services to deliver the availability, scalability and operational simplicity requirements that traditional databases cannot meet; plus accommodate a variety of use cases that other NoSQL databases can’t match.Bringing zen to the deluge of data.
+Basho delivers highly available, scalable distributed systems that are easy to operate at enterprise scale for empowering applications to store and retrieve unstructured data and easily manage active data workloads.
+Becoming one with Big Data.
+The Basho Data Platform forms the foundation for reducing the complexity of integrating and deploying active workloads for Big Data, IoT and hybrid cloud applications with today’s most flexible and available NoSQL database, Riak KV, Basho’s large object storage software, Riak S2, Basho’s time series optimized database, Riak TS, and add-ons for Apache Spark, Redis and Apache Solr.
+
+Seeking the path to data simplicity.
+Riak KV, Riak S2 and Riak TS allow organizations to transcend the chaos of unstructured Big Data in enterprise IT environments with solutions that assure the high availability, fault tolerance, scalability and operational simplicity needed to store session, user or device data or a variety of other uses.
+
+Expanding awareness. Embracing change.
+Riak customers span a broad range of industries with more than one-third of Fortune 50 companies deploying it to power their Big Data applications and a growing number of users are turning to Basho for solutions when mission-critical, revenue generating applications need to scale rapidly, predictably and reliably.
+
+Our journey. Your destination.
+Founded in 2008, Basho was one of the first distributed systems companies dedicated to developing disruptive technology to simplify the most critical data management challenges for enterprises.
+It currently has one of the largest and most talented groups of engineers and technical experts ever assembled, devoted exclusively to solving some of the most complex issues presented by scaling distributed systems.
+Basho also enjoys a large and growing following among influential programmers, architects and academics, and is the organizer of RICON, a distributed systems conference that brings together many of today’s leading luminaries in the expanding universe of enlightened distributed database management."
+22,Aerospike,"WHY WE BUILT AEROSPIKE
+We’re a group of engineers who are fanatical about performance, and fanatical about reliability.
+
+As long-time industry veterans, we believed that multicore processing, modern networks, Flash storage, and the latest memory architectures together provide a new generation of data architecture. Along the way, NoSQL was coined, providing a framework for a database revolution.
+
+We wanted to give all technologists the type of next generation tools built internally at large internet companies like Google, Twitter, and Amazon. We wanted to make scaling easy, but also affordable.
+
+We set out to build the fastest and most reliable database in the world. Aerospike is the first flash-optimized enterprise NoSQL database with strong consistency and 5 9’s uptime, and making the result open source.
+What we do
+""For us, 100% uptime is the top metric of success, and that's what we've been able to achieve with the Aerospike real-time enterprise NoSQL database."" - Michael Yudin, adMarketplace CTO
+
+We care about what you’re building
+We want you to build something cooler than has been built ever before. With more data and with increasing velocity --- you need to put your creative energy into making your project great, not reinventing the database. Our sales engineers take the time to understand what you’re building, and can recommend hardware configurations, data models, or will even advise you when not to use Aerospike if that makes sense.
+
+Learn more about our technologies
+
+We built our company around mission driven engineering.
+We’re engineers, not academics. At our headquarters in Mountain View and engineering offices in Bangalore, we’ve assembled a team that combines practical expertise in distributed systems engineering, cloud computing, networking, databases, and software development. Whatever their role, each Aerospiker combines an uncompromising engineering mindset with an unwavering focus on executing in service of the mission on behalf of our community.
+We’re here for the long haul
+Continually improving Aerospike takes time, energy, hardware, and the hard work of many people. Our business model - with full speed and scale open source funded by our Enterprise NoSQL Edition - allows us to continue to innovate in systems and data structures, to provide high grade support, and be here to help when you need it.
+
+AN ENGINEERING CULTURE
+Engineers build things that solve problems, speak up when things aren’t right, evaluate ideas on their merits and build things that fix what’s broken. At Aerospike, we are all engineers and we are focused on solving the hardest problems we can find.
+
+MARKETING YOUR SUCCESS
+We’ve succeeded only when you’re using Aerospike to build something cool. Anything else is an opinion --- engineering includes the tradeoffs. Engineering proves its worth when it solves real world problems, not academic exercises.
+
+enterprise NoSQL innovations
+THE BEST IDEA WINS
+We don’t get everything correct. We’ve got our opinions, our plans, and we trade complexity for features and performance daily. Our internal processes can be contentious, our forum conversations can be heated, but every conversation has one goal: a better enterprise NoSQL database solution
+
+INNOVATION IN BUSINESS
+Aerospike prices Enterprise Edition by data volume. We saw that database pricing based on nodes was irrational - that business value was based on the quantity and velocity of data. By pricing closest to business value - not node count - we make sure your operations staff chooses the right hardware, instead playing games to avoid software licenses."
+23,Cask,"Cask, the company that makes building and running big data solutions easy, provides the first unified integration platform
+for big data that cuts down the time to production for data applications and data lakes by 80%.
+What Matters Most
+simplicity, innovation, reliability, community, developers, customer success"
+24,Confluent,"Founded by the team that built Apache Kafka™, Confluent builds a stream data platform
+that enables companies to easily access data as real-time streamsConfluent was founded by the team that built Apache Kafka™ at LinkedIn and that scaled Kafka to accommodate over 1 trillion messages per day – covering everything happening in a company.
+
+Every byte of data has a story to tell, something of significance that will inform the next thing to be done. In a data-driven enterprise, how we move our data becomes nearly as important as the data itself. With greater speed and agility, data’s value increases exponentially.
+
+From its very early days, we have open-sourced Kafka and have led it to impressive industry-wide adoption across several thousand companies. Now we are focusing on building a stream data platform to help other companies get easy access to enterprise data as real-time streams."
+25,Couchbase,"Couchbase is part of the $35 billion database market and has quickly built a reputation among the Fortune 500 as the performance and scalability leader among NoSQL vendors. The database market is highly competitive, with legacy vendors like Oracle being challenged by NoSQL vendors such as Couchbase, as well as competitors like DataStax and MongoDB. According to a report from Allied Market Research, the NoSQL database market is expected to reach $4.2 billion by 2020, a CAGR of 35 percent from 2014-2020.
+ 
+Developers around the world build enterprise web, mobile, and IoT applications on the Couchbase data management platform to support massive data volumes in real time. The Couchbase platform includes Couchbase Server, Couchbase Lite - the first mobile NoSQL database, and Couchbase Sync Gateway.
+ 
+Couchbase makes it easy for developers to build enterprise applications on NoSQL using N1QL, a declarative query language that extends SQL for JSON.  Couchbase also makes it easy to operate at any scale, with elastic scalability and configurable cross data center replication to increase data locality and availability.  All Couchbase products are open source projects.
+ 
+Couchbase customers include leaders from every industry:
+ 
+Advertising: AOL, Criteo
+Banking and Finance: Citibank, Nielsen, PayPal, Visa, Wells Fargo, Willis Group
+Communications: AT&T, Sky, Orange, Verizon
+Gaming / Social Media: Blizzard Entertainment / Activision, Scientific Games, Viber / Rakuten, Zynga
+Manufacturing: General Electric
+Media & Publishing: Comcast, Gannett, McGraw-Hill
+Retail: Neiman Marcus, Nordstrom, Nike
+Technology: eBay, LinkedIn, Intuit / Turbo Tax
+Travel & Entertainment: Amadeus, Disney, CenterEdge, Marriott, Ryanair
+ 
+Couchbase investors include Accel Partners, Adams Street Partners, Ignition Partners, Mayfield Fund, North Bridge Venture Partners, Sorenson Capital and WestSummit. The company has raised $146 million in seven rounds of funding with its most recent round of $30 million in March 2016."
+26,DataRPM,"DataRPM is an award-winning predictive analytics company focused on delivering the next generation predictive maintenance solutions for the Industrial IoT. DataRPM platform automates data science leveraging the next frontier in machine learning known as meta-learning, which is machine learning on machine learning. The platform increases prediction quality and accuracy by over 300% in 1/30th the time and resources delivering 30% in cost savings or revenue growth for business problems around predicting asset failures, reducing maintenance costs, optimizing inventory and resources, predicting quality issues, forecasting warranty and insurance claims and managing risks better.
+DataRPM's advisory board consists of industry luminaries from companies such as Google, Hortonworks, Oracle, Cloudera, EMC, Facebook and Booz Allen Hamilton. Headquartered in Redwood City, California, the company is privately held. Customers of DataRPM include companies like GE, Cisco, Jaguar, Orange and similar Fortune 500 companies.
+DataRPM is on a mission to revolutionize the Industrial Analytics world. We believe that revolution can be brought only by challenging the convention on all fronts and be on constant pursuit of easier, faster and better ways of doing things. This is the guiding principle in everything that we do.
+"
+27,Information builders,"Our reputation for customer service excellence has garnered us the highest honors from “CRM” magazine, the SSPA, and the American Business Awards. Our products and services have received top recognition from independent analyst research firms including Gartner, Forrester, Ventana Research, BARC, Dresner, and the Data Warehouse Institute (TDWI). Most importantly, we’re proud of our customers who are continually honored by the industry for their stellar accomplishments and the impact they have had on people’s lives.
+
+We Love What We Do
+
+For more than 40 years, we’ve been helping customers turn their data into business value, and yet our products and services have never been more relevant than they are today.
+
+The technology landscape evolved and data got bigger, but our mission remains the same: To help our customers deliver better data and better analytics to more people, so they can make better decisions.
+We Love New York
+
+Headquartered above the iconic Madison Square Garden in New York, Information Builders has offices around the world.
+
+We’re a global company but we’ve all got a little New Yorker in us. Smart, genuine, tough, passionate, and loyal. Some of the most talented and creative professionals in the industry work at Information Builders. There’s nothing we can’t do.
+
+We’re Problem Solvers at Heart
+
+Every day millions of people use our WebFOCUS software for Business Intelligence and Analytics. They use it in millions of different ways because we’re not a one-size-fits-all kind of company. We listen to and work with our customers to help solve their business problems and meet business goals. Their stories inspire us, excite us and drive us forward.
+
+We Start with the Data
+
+Our integrated solutions for data management set us apart because we know that analytics without trust in the underlying data can cause more questions than answers. Through one set of powerful products, we provide accurate, consistent data to your key stakeholders in the format that suits them best, whether it’s a financial report, an elegant dashboard, or a simple InfoApp.
+
+ "
+28,Qlik,"Qliktech® delivers intuitive platform solutions for self-service data visualization, guided analytics applications, embedded analytics and reporting to approximately 40,000 customers worldwide. Companies of all sizes, across all industries and geographies, use Qlik® solutions to visualize and explore information, generate insight and make better decisions. At Qlik, we optimize Business Intelligence (BI) by harnessing the collective intelligence of people across an organization. We focus on empowering people—by enabling everyone in an organization to see the whole story that lives within their data.
+
+
+Our vision
+
+Qlik was founded on one simple belief—Business Intelligence (BI) is optimized by harnessing human intelligence, the collective intelligence of people. We believe that data is nothing more than a source, and that BI, analytics tools and technologies are only as effective as those that use them. That’s why we’ve built a new breed of visual analytics solutions—to bring out the best in the people that use them. Simply put, our focus is to amplify human intelligence.
+
+
+Enabling agility
+
+Qlik solutions enable everyone in an organization to see the whole story that lives within their data. To deliver on our vision, we must be agile and innovate ahead of the market, building on our foundation of challenging the status quo. As a result, we continue to embrace our core values and partner with our customers for their success.
+
+
+Our solutions
+
+Our portfolio is comprised of three core solutions—all powered by our patented engine technology. Qlik® Sense is our next-generation visual analytics platform, QlikView® is our proven guided analytics and dashboarding solution, and Qlik® Cloud is our growing portfolio of SaaS apps.
+
+
+Committed to customer success
+
+Qlik brings specific industry and functional-level experience to market. Our world-class consulting, training and support services ensure you get the most from your Qlik implementation. Our extended ecosystem includes a global user community of more than 100,000 participants and a marketplace for sharing applications, data and knowledge, plus a network of 1,700 experienced partners around the globe.
+
+
+Changing our world
+
+We believe Qlik can change our world. Through our Qlik Software Grant Program, we donate Qlik software and services to help humanitarian and community-focused non-profits make sense of complex information so their good work becomes even better. The Change Our World program has raised money to aid survivors of natural disasters, underprivileged youth and the orphaned children of Africa.
+
+LEARN MORE 
+
+Educating our future leaders
+
+Qlik makes the learning experience richer and more powerful by driving the analytical and critical thinking skills that will prepare students for leadership in their chosen fields. The Qlik Academic Program supports the academic community by providing free Qlik licenses to university professors and researchers.
+
+LEARN MORE 
+
+What makes us Qlik
+
+Qlik has a vibrant, exhilarating corporate culture based on our strong commitment to our core values—Challenge, Move Fast, Open and Straightforward, Take Responsibility and Teamwork for Results. These core values are at the heart of everything we do.Change the world
+
+We believe data can change the world. And we believe people can, too.
+
+Making a difference, both in small and large ways, is our passion. We want to make it easier for people to make more insightful decisions and act on them. We’re motivated to help people make discoveries in data, share insights, make decisions and act with confidence.
+
+At the heart of Qlik is our Swedish soul, which guides everything from our culture and product design approach to our corporate social responsibility program. It’s what drives us to create a culture of innovation.
+
+Qlik at a glance
+
+Here's a little more about us:
+
+More than 40,000 customers in 100 countries
+More than 2,000 employees worldwide
+Founded in Lund, Sweden in 1993
+Headquartered in Radnor, PA (USA) with offices throughout North America and Europe
+More than 1,700 partners around the world
+Award-winning, market-leading, industry-changing technology
+Our culture
+We love data. We think it can change the world. But working to make an impact isn’t limited to inside the office.
+
+Building connections
+
+Each team member makes the journey to Lund, Sweden for Qlik Academy, a weeklong introduction to everything Qlik. Here, employees from around the world connect and learn about our history, culture and values.
+
+Our culture
+
+Each team member takes a day of service for the opportunity to donate time to the community. Through our Change Our World program, we enable humanitarian and community-focused nonprofits to use our products to gain visibility into data sources, accelerate outcomes, connect donors with recipients and generally make their great work even better.
+
+LEARN MORE ABOUT OUR SOCIAL RESPONSIBILITY 
+
+Our values
+
+Challenge
+
+Qlik is a place for creating impact—not for protecting the status quo. We challenge assumptions and respectfully guide others at all levels of our organization to consider new ideas and alternative paths. Every day, we strive to keep our customer promise: be easy to work with, deliver rapid time to success and provide innovative solutions.
+
+
+Move fast
+
+Qlik helps people to discover fast insights and make effective decisions. It’s a dynamic world operating at a rapid pace, but we know momentum is more powerful than motion, and leadership is more valuable than speed. Great ideas need wings and landing gear to be successful. At Qlik, we pause with purpose to consider when to act with urgency—and when to take more time to gain the clarity that acting with vision and purpose requires.
+
+
+Be open and straightforward
+
+We know openly sharing appropriate information builds clarity and benefits everyone. So, at Qlik, we first seek to understand. In an effort to foster continuous learning, we listen receptively to feedback when it’s given and actively seek it when it’s not. We have the confidence to provide input, ideas and advice to others regardless of their role. Straightforward communication means speaking respectfully—with no agenda other than creating clarity and understanding.
+
+
+Take responsibility
+
+At Qlik, we take responsibility seriously and interpret it broadly. We are committed to addressing customer needs and concerns. We hold ourselves accountable for what we do—and don’t do. We reach back to help someone else move forward and mentor others as part of our learning culture. As citizens of the world, we take responsibility for more than ourselves. We donate our personal and professional time to Change Our World, the Qlik corporate social responsibility initiative. Together, we’re striving to touch one billion lives for the better.
+
+
+Teamwork for results
+
+Our aspirations are too great to act alone. We are results-driven people, building a culture of inclusion. We are humble enough to rely on others and trustworthy enough to deliver when others count on us. We value expertise beyond our own and proactively seek ideas, support and advice from our colleagues. We treat others as we want to be treated and offer assistance when needed."
+29,Paxata,"In November 2013, Paxata unveiled the first interactive, self-service Adaptive Data Preparation solution for business analysts, data scientists, developers, data curators and IT teams.
+
+Now the industry standard, Paxata empowers everyone in the enterprise to accelerate time to analytics and decision-making by removing the traditional shackles of ETL (Extract-Transform-Load) processes.
+
+Today, Paxata boasts over 60 customers, ranging from medium-sized online Retailers to the largest Financial institutions and Government agencies. Our Pax Pros work in a collaborative environment to automated data integration, optimize data quality, promote collaboration and ensure data is governed and used in an agile workflow.
+
+Paxata combines a visually-dynamic application for even the most non-technical analyst with a Hadoop-based platform built for data prep at scale.  Regardless of data volume, variety or velocity, Paxata helps our customers create data worth analyzing, whether that is for ad hoc, operational, predictive, and packaged analytics.
+
+Paxata partners with industry-leading cloud, big data and business intelligence solutions providers such as Cloudier and Amazon, and seamlessly connects to BI tools, including Salesforce Wave, Tableau, Qlik and Microsoft Excel to greatly accelerate the time to actionable business insights.
+
+Paxata is home to the world’s best engineers with agile development skills, domain strength in UX design, next-generation data architecture and scalable software delivery. The company boasts an enterprise-class Customer Success organization, a customer-centric sales and marketing team, and a set of partners, advisors and investors working together to change the information management world forever."
+30,Gainsight,"Gainsight is Committed to Success For All - Our Customers, Our Employees, Our Community and Our Partners
+WE’RE THE CUSTOMER SUCCESS COMPANY
+For decades, businesses have used data to drive customer acquisition. Now, we’re changing the game for those businesses by helping them leverage the power of customer data to manage at-risk customers and grow the lifetime value of healthy ones. Gainsight helps businesses gain insight into:
+CUSTOMER LIFECYCLE
+
+Customer Success strategies are not one-size-fits-all. Monitor and engage with a variety of customers.
+Learn more
+
+RISK MANAGEMENT
+
+Use big data analytics to monitor customer health according to sales data, usage logs, support tickets, and more.
+Learn more
+
+VALUE DEMONSTRATION
+
+Keep your customers loyal by helping them understand the value your products and services provide.
+Learn more
+
+EXPANSION AND ADVOCACY
+
+Find your biggest fans and identify accounts ripe for additional sales.
+Learn more
+
+CROSS-FUNCTIONAL COLLABORATION
+
+Improve team and task coordination, track business outcomes, and streamline operations
+WE HAVE A PASSION FOR COMMUNITY SUCCESS
+A core piece of the Gainsight mission is to build the biggest community of Customer Success folks around.
+OUR CULTURE IS A CUT ABOVE THE REST
+
+
+At Gainsight, we reject the idea that work and life are mutually exclusive. Our team members are passionate about what they do, and we strive to create an environment that brings that passion to life. We’re a diverse, brilliant, quirky group of people united by three core values:
+
+The Golden Rule
+Success for All Stakeholders
+Child-like Joy"
